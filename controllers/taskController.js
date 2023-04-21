@@ -17,8 +17,6 @@ module.exports.getAllTasks = async (req,res)=>{
     }
 }
 
-
-
 //task details
 module.exports.taskDetails = async (req,res)=>{
     try {
